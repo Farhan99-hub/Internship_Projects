@@ -1,1 +1,8 @@
-
+Developed a machine learning pipeline for predicting flight booking completion based on customer  data.
+Performed data loading, cleaning, and feature engineering (one-hot encoding, feature selection with     Mutual Information).
+Scaled data using MinMaxScaler for improved model performance.
+Trained and evaluated RandomForestClassifier and XGBClassifier.
+Achieved ~80% accuracy and ~0.66 AUC with both models.
+Observed slight variations in performance based on feature selection, with both models showing
+comparable results.
+Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
