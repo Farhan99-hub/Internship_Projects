@@ -1,1 +1,6 @@
-
+CLASSIFICATION OF MICE WITH DOWN SYNDROME BASED ON PROTEIN EXPRESSION LEVELS: 
+●  Developed a machine learning pipeline for mice classification based on protein expression data.
+●  Techniques Applied: Data preprocessing, feature scaling, PCA for dimensionality reduction, and model evaluation.
+●  Models Used: Logistic Regression, SVM, Decision Trees, and Random Forest.
+●  Performance Metrics: Achieved an accuracy of 99% with Random Forest and optimized hyper parameters for precision and recall balance.
+●  Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
